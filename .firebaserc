@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "frondendprueba": "frondendprueba",
+    "default": "frondendprueba"
+  },
+  "targets": {},
+  "etags": {}
+}
